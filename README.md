@@ -1,8 +1,13 @@
 # Selenium-FB-Maven-TestNg-Invygo-Assignment
 
+Selenium ,Maven ,TestNG , POM , Extent reporting
 
 
 # Running from Command Prompt 
+
+1. Go to Cmd and type project location C:/
+2. mvn clean
+3. mvn test
 
     
 
