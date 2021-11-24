@@ -78,3 +78,6 @@ The name of the testcase passed is :facebooklogin
 [INFO] Finished at: 2021-11-24T10:03:14+04:00
 [INFO] ------------------------------------------------------------------------
 
+
+    
+    ![image](https://user-images.githubusercontent.com/35593071/143184762-81d4d497-c966-4294-a125-3979f4b82c77.png)
