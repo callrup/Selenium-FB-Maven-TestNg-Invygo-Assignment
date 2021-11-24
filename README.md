@@ -79,5 +79,5 @@ The name of the testcase passed is :facebooklogin
 [INFO] ------------------------------------------------------------------------
 
 
-    
-    ![image](https://user-images.githubusercontent.com/35593071/143184762-81d4d497-c966-4294-a125-3979f4b82c77.png)
+![image](https://user-images.githubusercontent.com/35593071/143184850-56bf8c42-bf31-4c20-991e-61d29f9752a9.png)
+
